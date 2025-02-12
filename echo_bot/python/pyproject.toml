@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "echo-bot"
+version = "0.1.0"
+description = "\b\b\b\b\b一个简单的回声机器人，用于回复用户发送的消息"
+authors = ["simbaji <simbaji@163.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+lark-oapi = "^1.4.9"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

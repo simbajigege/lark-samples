@@ -1,0 +1,300 @@
+{
+    "bizInfos": [
+        {
+            "desc": "访问凭证",
+            "name": "credential"
+        },
+        {
+            "desc": "身份验证",
+            "name": "auth"
+        },
+        {
+            "desc": "身份验证",
+            "name": "authen"
+        },
+        {
+            "desc": "事件订阅",
+            "name": "event"
+        },
+        {
+            "desc": "通讯录",
+            "name": "contact"
+        },
+        {
+            "desc": "消息与群组",
+            "name": "im"
+        },
+        {
+            "desc": "云文档",
+            "name": "ccm"
+        },
+        {
+            "desc": "多维表格",
+            "name": "base"
+        },
+        {
+            "desc": "日历",
+            "name": "calendar"
+        },
+        {
+            "desc": "视频会议",
+            "name": "vc"
+        },
+        {
+            "desc": "会议室",
+            "name": "meeting_room"
+        },
+        {
+            "desc": "考勤打卡",
+            "name": "attendance"
+        },
+        {
+            "desc": "审批",
+            "name": "approval"
+        },
+        {
+            "desc": "服务台",
+            "name": "helpdesk"
+        },
+        {
+            "desc": "任务",
+            "name": "task"
+        },
+        {
+            "desc": "工作台",
+            "name": "workplace"
+        },
+        {
+            "desc": "邮箱",
+            "name": "mail"
+        },
+        {
+            "desc": "应用信息",
+            "name": "application"
+        },
+        {
+            "desc": "企业信息",
+            "name": "tenant"
+        },
+        {
+            "desc": "搜索",
+            "name": "search"
+        },
+        {
+            "desc": "AI 能力",
+            "name": "ai"
+        },
+        {
+            "desc": "管理后台",
+            "name": "admin"
+        },
+        {
+            "desc": "飞书人事（标准版）",
+            "name": "ehr"
+        },
+        {
+            "desc": "招聘",
+            "name": "hire"
+        },
+        {
+            "desc": "OKR",
+            "name": "okr"
+        },
+        {
+            "desc": "实名认证",
+            "name": "human_authentication"
+        },
+        {
+            "desc": "智能门禁",
+            "name": "acs"
+        },
+        {
+            "desc": "绩效",
+            "name": "performance"
+        },
+        {
+            "desc": "飞书合同",
+            "name": "contract"
+        },
+        {
+            "desc": "主数据",
+            "name": "mdm"
+        },
+        {
+            "desc": "安全",
+            "name": "safety"
+        },
+        {
+            "desc": "词典",
+            "name": "baike"
+        },
+        {
+            "desc": "考试",
+            "name": "exam"
+        },
+        {
+            "desc": "字节开放生态",
+            "name": "aweme_ecosystem"
+        },
+        {
+            "desc": "汇报",
+            "name": "report"
+        },
+        {
+            "desc": "飞书人事",
+            "name": "feishu_people"
+        },
+        {
+            "desc": "飞书人事（企业版）",
+            "name": "corehr"
+        },
+        {
+            "desc": "人力资源管理平台",
+            "name": "people_admin"
+        },
+        {
+            "desc": "飞书费控",
+            "name": "spend"
+        },
+        {
+            "desc": "工作流",
+            "name": "workflow"
+        },
+        {
+            "desc": "eLearning",
+            "name": "elearning"
+        },
+        {
+            "desc": "家校通讯录",
+            "name": "edu"
+        },
+        {
+            "desc": "帐号",
+            "name": "passport"
+        },
+        {
+            "desc": "公司圈",
+            "name": "moments"
+        },
+        {
+            "desc": "客户端",
+            "name": "app_badge"
+        },
+        {
+            "desc": "网页组件",
+            "name": "component"
+        },
+        {
+            "desc": "小组件",
+            "name": "blockit"
+        },
+        {
+            "desc": "规则平台",
+            "name": "rule_engine"
+        },
+        {
+            "desc": "数据合规",
+            "name": "data_compliance"
+        },
+        {
+            "desc": "安全合规",
+            "name": "security_and_compliance"
+        },
+        {
+            "desc": "订阅号",
+            "name": "subscriptions"
+        },
+        {
+            "desc": "关联组织",
+            "name": "trust_party"
+        },
+        {
+            "desc": "客户360",
+            "name": "customer_360"
+        },
+        {
+            "desc": "认证信息",
+            "name": "verification_information"
+        },
+        {
+            "desc": "个人设置",
+            "name": "personal_settings"
+        },
+        {
+            "desc": "妙记",
+            "name": "minutes"
+        },
+        {
+            "desc": "第三方工单搜索",
+            "name": "third_party_ticket_search"
+        },
+        {
+            "desc": "数据立方",
+            "name": "data_cube"
+        },
+        {
+            "desc": "飞书低代码平台",
+            "name": "app_engine"
+        },
+        {
+            "desc": "权限中台",
+            "name": "authorization"
+        },
+        {
+            "desc": "组织架构",
+            "name": "directory"
+        },
+        {
+            "desc": "薪酬管理",
+            "name": "compensation_management"
+        },
+        {
+            "desc": "设备服务",
+            "name": "device"
+        },
+        {
+            "desc": "业财接入平台",
+            "name": "financial_access_platform"
+        },
+        {
+            "desc": "Payroll",
+            "name": "payroll"
+        },
+        {
+            "desc": "假勤考勤机",
+            "name": "attendance_machine"
+        },
+        {
+            "desc": "协作插件",
+            "name": "collab_plugins"
+        },
+        {
+            "desc": "EA 企业应用集成平台",
+            "name": "ea_integration_platform"
+        },
+        {
+            "desc": "智能伙伴创建平台",
+            "name": "aily"
+        },
+        {
+            "desc": "People AI",
+            "name": "people_ai"
+        },
+        {
+            "desc": "画板",
+            "name": "board"
+        },
+        {
+            "desc": "卡片",
+            "name": "cardkit"
+        },
+        {
+            "desc": "智能伙伴",
+            "name": "myai"
+        },
+        {
+            "desc": "测试",
+            "name": "qa_test"
+        }
+    ]
+}

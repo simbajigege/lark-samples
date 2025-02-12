@@ -8,6 +8,6 @@
 
 ## 启动项目
 
-macOS/Linux： `APP_ID=<app_id> APP_SECRET=<app_secret> ./bootstrap.sh`
+macOS/Linux： `APP_ID=cli_a72f022c89b2500c APP_SECRET=ZtWazOcJzpE0RkWOyx9ndfbxStO5WToa ./bootstrap.sh`
 
 Windows： `set APP_ID=<app_id>&set APP_SECRET=<app_secret>&bootstrap.bat`
